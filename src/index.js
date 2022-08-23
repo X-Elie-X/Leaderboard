@@ -1,4 +1,5 @@
 import './style.css';
+
 const Scores = {
   Score1: ['Name', 100],
   Score2: ['Name', 20],

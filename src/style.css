@@ -45,6 +45,10 @@ h2 {
   border-radius: 20px;
 }
 
+.submit-btn {
+  margin-left: 150px;
+}
+
 .refresh-btn:hover,
 .submit-btn:hover {
   color: #4275a4;
@@ -102,8 +106,4 @@ li:nth-child(even) {
   font-family: 'Anton', sans-serif;
   color: #0c0c0c;
   font-size: 20px;
-}
-
-.submit-btn {
-  margin-left: 150px;
 }
