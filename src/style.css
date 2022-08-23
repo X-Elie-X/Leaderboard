@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(109.6deg, #64b2f9 11.2%, #72e79fcc 91.1%);
+}
+
+h1 {
+  font-family: 'Anton', sans-serif;
+  font-size: 70px;
+  color: #131313;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.intro1 {
+  display: flex;
+  margin-top: 50px;
+}
+
+h2 {
+  font-family: 'Anton', sans-serif;
+  font-size: 40px;
+  color: #0c0c0c;
+  margin-left: 90px;
+}
+
+.refresh-btn,
+.submit-btn {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+  color: #fff;
+  background-color: #4275a4;
+  border: #4275a4;
+  margin-left: 20px;
+  height: 40px;
+  margin-top: 15px;
+  width: 90px;
+  border-radius: 20px;
+}
+
+.refresh-btn:hover,
+.submit-btn:hover {
+  color: #4275a4;
+  background-color: #fff;
+  border: #fff;
+}
+
+.list {
+  margin-left: 90px;
+  border: 1px solid #131313;
+  width: 340px;
+  margin-top: 20px;
+}
+
+.list li {
+  list-style: none;
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  color: #1a1a1a;
+  margin-left: 20px;
+}
+
+li:nth-child(even) {
+  background-color: #66b6d2;
+  background-size: auto;
+}
+
+.inputContainer {
+  margin-left: 800px;
+  margin-top: -297px;
+}
+
+.add {
+  font-family: 'Anton', sans-serif;
+  font-size: 40px;
+  color: #0c0c0c;
+  margin-bottom: 20px;
+}
+
+.input1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.name,
+.num {
+  width: 250px;
+  height: 40px;
+  margin-bottom: 20px;
+  background-color: #ffffff1a;
+  border: none;
+}
+
+::-webkit-input-placeholder {
+  font-family: 'Anton', sans-serif;
+  color: #0c0c0c;
+  font-size: 20px;
+}
+
+.submit-btn {
+  margin-left: 150px;
+}
