@@ -19,14 +19,25 @@ In this project, it includes building a simple HTML LeaderBoard tasks using webp
 <li>Browser With Developer Tools</li>
 </ul>
 
-# Project Setup
+## getting Started
 
-1. Setup the project by creating a new directory and initializing it with npm using the official webpack documentation to set up webpack.
-2. Add the HTML to index.html in src folder.
-3. Worked on styling the website using style.css.
-4. Created modules for the project and imported them to index.js
-5. fix linters errors.
-6. test the website by adding and removing tasks.
+To get a local copy up and running follows these simple example steps.
+
+## PreApp
+
+1- Node.js
+2- NPM
+3- Git
+
+## Setup
+
+- Clone the repository ` git clone``https://github.com/X-Elie-X/Leaderboard.git `
+
+## Install
+
+- `npm i`
+- `npm rub build`
+- `npm start`
 
 ## Live Demo
 
