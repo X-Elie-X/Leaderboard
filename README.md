@@ -47,7 +47,9 @@ Elie Harfouche
 
 # Contributing :handshake:
 
-Contributions, issues, and feature request are welcome anytime.
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/X-Elie-X/Leaderboard/issues).
 
 # Show your support
 
@@ -57,3 +59,9 @@ Give a Like or a Star if you like this project.
 
 <ul>
 <li>Microverse</li>
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
