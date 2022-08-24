@@ -31,7 +31,7 @@ To get a local copy up and running follows these simple example steps.
 
 ## Setup
 
-- Clone the repository ` git clone``https://github.com/X-Elie-X/Leaderboard.git `
+- Clone the repository ` git clone` `https://github.com/X-Elie-X/Leaderboard.git `
 
 ## Install
 
