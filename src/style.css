@@ -9,19 +9,22 @@
 
 body {
   background: linear-gradient(109.6deg, #64b2f9 11.2%, #72e79fcc 91.1%);
+  display: flex;
 }
 
 h1 {
   font-family: 'Anton', sans-serif;
   font-size: 70px;
   color: #131313;
-  margin-left: 20px;
+  margin-left: 70px;
   margin-top: 30px;
 }
 
 .intro1 {
   display: flex;
-  margin-top: 50px;
+  margin-top: 190px;
+  margin-left: -360px;
+  
 }
 
 h2 {
@@ -57,10 +60,10 @@ h2 {
 }
 
 .list {
-  margin-left: 90px;
   border: 1px solid #131313;
   width: 340px;
-  margin-top: 20px;
+  margin-left: -270px;
+  margin-top: 30px;
 }
 
 .list li {
@@ -77,8 +80,8 @@ li:nth-child(even) {
 }
 
 .inputContainer {
-  margin-left: 800px;
-  margin-top: -297px;
+  margin-left: 180px;
+  margin-top: 190px;
 }
 
 .add {
@@ -89,8 +92,10 @@ li:nth-child(even) {
 }
 
 .form {
+  margin-top: 30px;
   display: flex;
   flex-direction: column;
+
 }
 
 .name,
