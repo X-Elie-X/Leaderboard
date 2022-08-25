@@ -1,6 +1,6 @@
 import './style.css';
 
-import { url, postData } from './modules/api';
+import { url } from './modules/api';
 
 const showList = document.querySelector('.list');
 const getData = async () => {
