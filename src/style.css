@@ -24,7 +24,6 @@ h1 {
   display: flex;
   margin-top: 190px;
   margin-left: -360px;
-  
 }
 
 h2 {
@@ -95,7 +94,6 @@ li:nth-child(even) {
   margin-top: 30px;
   display: flex;
   flex-direction: column;
-
 }
 
 .name,
