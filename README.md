@@ -36,7 +36,7 @@ To get a local copy up and running follows these simple example steps.
 ## Install
 
 - `npm i`
-- `npm rub build`
+- `npm run build`
 - `npm start`
 
 ## Live Demo
